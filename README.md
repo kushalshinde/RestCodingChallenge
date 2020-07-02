@@ -3,7 +3,7 @@
 
 ## Getting Started
 As part of a testing framework, I have created a REST HTTP service that generates a random address. Based on the requirements, I have implemented 
-a SpringBoot application to randomly generate an address in the format “532 Union St., Apt 72, San Diego, NY, 789302”. 
+a SpringBoot application to randomly generate an address in the format “532 Union St., Apt 72, San Diego, NY, 789302”.<br>
 Please follow step by step instructions below to run the application.<br><br>
 
 
@@ -63,6 +63,8 @@ The application is now running in the localhost:8080 port<br>
    http://localhost:8080/randomizer/address
 
 It the Postman app, please select GET HTTP method to get the address result in a JSON format.<br>
+
+![2](https://user-images.githubusercontent.com/15387499/86396055-4304c800-bc6f-11ea-9149-4346d7186cc1.png)
 
 In order to get the randomized results, we can hit this URL multiple times.<br><br>
 
