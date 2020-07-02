@@ -19,6 +19,8 @@ The minimum requirement is JDK 1.8. The output should be as per below.<br>
 2. **IDE**<br>
 We need and IDE(Integrated development environment) in order to import the project. below are the steps given to run the project through a command line.<br>
 The use of Intellij IDEA is recommmended to run the project.<br>
+![1](https://user-images.githubusercontent.com/15387499/86395723-b78b3700-bc6e-11ea-9dd3-f17f7210ab6d.png)
+
 
 3. **Maven**<br>
 Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, 
