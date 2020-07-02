@@ -68,12 +68,6 @@ It the Postman app, please select GET HTTP method to get the address result in a
 
 In order to get the randomized results, we can hit this URL multiple times.<br><br>
 
-## About The Project
-
-1. 
-
-
-
 ## Contributing
 
 1. Fork the repo https://github.com/kushalshinde/RestCodingChallenge.git<br>
