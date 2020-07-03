@@ -50,7 +50,7 @@ Git is a distributed revision control and source code management system.<br>
 To be able to run the Spring Boot app, we will need to first build it. To build and package a Spring Boot app 
 into a single executable Jar file with a Maven, we use the below command. <br>
 
-   `mvn install`
+   `mvn clean install`
 
 4. Run Spring Boot app using Maven<br>
 
